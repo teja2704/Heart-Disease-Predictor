@@ -1,5 +1,6 @@
 # Heart-Disease-Predictor
-Machine Learning based Heart Disease Prediction System built using KNN and Streamlit.
+Developed a Heart Disease Prediction System using K-Nearest Neighbors (KNN) and Streamlit. Implemented data preprocessing, feature scaling, model training, and real-time prediction with an interactive web interface, achieving approximately 87% accuracy.
+
 # ❤️ Heart Disease Prediction System
 
 A Machine Learning web application that predicts the likelihood of heart disease using patient health parameters.
