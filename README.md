@@ -1,5 +1,7 @@
 # ❤️ Heart Disease Prediction System
 
+**Live Demo**: https://heart-disease-predictor-k2l2.onrender.com/
+
 Developed a Heart Disease Prediction System using K-Nearest Neighbors (KNN) and Streamlit. Implemented data preprocessing, feature scaling, model training, and real-time prediction with an interactive web interface, achieving a 90.2% accuracy and 91.3% F1 score.
 
 A Streamlit application that uses a K-Nearest Neighbors model to estimate heart
@@ -60,6 +62,8 @@ after each commit to the connected branch.
 The Blueprint starts on Render's free plan to avoid an unexpected charge. Free
 services may sleep when idle. Before serving real traffic, upgrade the service
 to a paid instance and configure uptime alerts and a custom domain in Render.
+
+*(Note: Because this is deployed on a free tier, the app will spin down after a period of inactivity. The first request after a period of inactivity may take 30-60 seconds to load. Please be patient!)*
 
 ## Run with Docker
 
